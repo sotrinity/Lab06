@@ -1,4 +1,4 @@
-# Main and encode are by Trinity So
+# main and encode function are by Trinity So
 
 def menu():
     print('Menu')
