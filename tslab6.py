@@ -19,8 +19,6 @@ def decode(password):
         original_password += str(int(digit) - 3)
     return original_password
 
-
-
 if __name__ == '__main__':
     while True:
         menu()
